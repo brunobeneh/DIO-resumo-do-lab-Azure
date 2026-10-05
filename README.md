@@ -1,2 +1,2 @@
 # DIO-resumo-do-lab-Azure
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Aprendemos no curso os fundamentos de computação em nuvem, como criar uma conta no Azure e como iniciamos um projeto.
